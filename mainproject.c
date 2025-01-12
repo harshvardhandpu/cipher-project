@@ -10,6 +10,7 @@ typedef struct sign
     char phone[10];
 } s;
 s s1;
+//harsh
 
 // storage
 typedef struct storage
